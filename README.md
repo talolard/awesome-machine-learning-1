@@ -54,7 +54,7 @@
 * [Neuralink](waitbutwhy.com/2017/04/neuralink.html) - Neuralink, the future of AI merged with the brain. _MUST READ_
 * [A visual introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) - A very cool visual introduction to machine learning to help you develop an intuition for how things work
 * [A few useful things to know about machine learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) - A very useful paper that explains a lot of basic concepts about machine learning
-
+* [When To Use Machine In The Loop](https://www.lighttag.io/blog/when-to-use-machine-in-the-loop/) - A write up on Machine In the Loop Techniques, when to use them and what the tradeoffs are
 
 ## Courses
 * [Deep Learning for Coders](http://course.fast.ai/) - Learn how to build state of the art models without needing graduate-level math—but also without dumbing anything down. Oh and one other thing... it's totally free!
